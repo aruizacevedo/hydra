@@ -1,4 +1,6 @@
 data/processed/
-after/ds/__pycache__/
 before/ds/__pycache__/
 before/runs/
+after/__pycache__/
+after/ds/__pycache__/
+after/outputs/
